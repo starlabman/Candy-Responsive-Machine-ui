@@ -170,4 +170,4 @@ Your app is ready to be deployed!
 
 ## Need Help ?
 
-You can ask for help in Stractors Discord : https://t.co/0VM0TkwiAn
+You can ask for help 
